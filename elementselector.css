@@ -1,0 +1,14 @@
+p{
+	color: blue;
+	font-family: cursive;
+}
+h1{
+	color: green;
+	background: pink;
+	font-family: cursive;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: grey;
+}

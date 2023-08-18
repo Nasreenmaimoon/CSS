@@ -1,0 +1,19 @@
+<div style="height:4000px;width:150px;background:orange;float:left"></div>
+		<div style="height:4000px;width:500px;background:green;float:left">	
+			
+
+			<header align="left"><h1>HTML ELEMENT</h1></header>
+			<h2></h2>
+	        <p id="nasreen"></p>
+	        <a href="#home">home page</a>
+	        <a href="#about">About page</a>
+	        <a href="#contact">Contact</a>
+			<footer></footer>
+			
+		</div>
+		<div style="height:4000px;width:150px;background:yellow;float:right"></div>
+	</div>
+    </center>
+
+</body>
+</html>
